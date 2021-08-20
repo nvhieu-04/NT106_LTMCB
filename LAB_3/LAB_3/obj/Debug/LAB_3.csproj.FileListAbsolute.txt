@@ -1,0 +1,17 @@
+D:\HK4\Lập trình mạng căn bản - NT106.L21.MMCL\LAB_3\LAB_3\bin\Debug\LAB_3.exe.config
+D:\HK4\Lập trình mạng căn bản - NT106.L21.MMCL\LAB_3\LAB_3\bin\Debug\LAB_3.exe
+D:\HK4\Lập trình mạng căn bản - NT106.L21.MMCL\LAB_3\LAB_3\bin\Debug\LAB_3.pdb
+D:\HK4\Lập trình mạng căn bản - NT106.L21.MMCL\LAB_3\LAB_3\obj\Debug\LAB_3.csprojAssemblyReference.cache
+D:\HK4\Lập trình mạng căn bản - NT106.L21.MMCL\LAB_3\LAB_3\obj\Debug\LAB_3.Bai1.resources
+D:\HK4\Lập trình mạng căn bản - NT106.L21.MMCL\LAB_3\LAB_3\obj\Debug\LAB_3.Form1.resources
+D:\HK4\Lập trình mạng căn bản - NT106.L21.MMCL\LAB_3\LAB_3\obj\Debug\LAB_3.Properties.Resources.resources
+D:\HK4\Lập trình mạng căn bản - NT106.L21.MMCL\LAB_3\LAB_3\obj\Debug\LAB_3.csproj.GenerateResource.cache
+D:\HK4\Lập trình mạng căn bản - NT106.L21.MMCL\LAB_3\LAB_3\obj\Debug\LAB_3.csproj.CoreCompileInputs.cache
+D:\HK4\Lập trình mạng căn bản - NT106.L21.MMCL\LAB_3\LAB_3\obj\Debug\LAB_3.exe
+D:\HK4\Lập trình mạng căn bản - NT106.L21.MMCL\LAB_3\LAB_3\obj\Debug\LAB_3.pdb
+D:\HK4\Lập trình mạng căn bản - NT106.L21.MMCL\LAB_3\LAB_3\obj\Debug\LAB_3.Bai1_Client.resources
+D:\HK4\Lập trình mạng căn bản - NT106.L21.MMCL\LAB_3\LAB_3\obj\Debug\LAB_3.Bai1_Server.resources
+D:\HK4\Lập trình mạng căn bản - NT106.L21.MMCL\LAB_3\LAB_3\obj\Debug\LAB_3.Bai2.resources
+D:\HK4\Lập trình mạng căn bản - NT106.L21.MMCL\LAB_3\LAB_3\obj\Debug\LAB_3.Bai3.resources
+D:\HK4\Lập trình mạng căn bản - NT106.L21.MMCL\LAB_3\LAB_3\obj\Debug\LAB_3.Bai3_Client.resources
+D:\HK4\Lập trình mạng căn bản - NT106.L21.MMCL\LAB_3\LAB_3\obj\Debug\LAB_3.Bai3_Server.resources

@@ -1,0 +1,10 @@
+D:\HK4\Lập trình mạng căn bản - NT106.L21.MMCL\LAB_6\LAB_6\bin\Debug\LAB_6.exe.config
+D:\HK4\Lập trình mạng căn bản - NT106.L21.MMCL\LAB_6\LAB_6\bin\Debug\LAB_6.exe
+D:\HK4\Lập trình mạng căn bản - NT106.L21.MMCL\LAB_6\LAB_6\bin\Debug\LAB_6.pdb
+D:\HK4\Lập trình mạng căn bản - NT106.L21.MMCL\LAB_6\LAB_6\obj\Debug\LAB_6.csproj.AssemblyReference.cache
+D:\HK4\Lập trình mạng căn bản - NT106.L21.MMCL\LAB_6\LAB_6\obj\Debug\LAB_6.Form1.resources
+D:\HK4\Lập trình mạng căn bản - NT106.L21.MMCL\LAB_6\LAB_6\obj\Debug\LAB_6.Properties.Resources.resources
+D:\HK4\Lập trình mạng căn bản - NT106.L21.MMCL\LAB_6\LAB_6\obj\Debug\LAB_6.csproj.GenerateResource.cache
+D:\HK4\Lập trình mạng căn bản - NT106.L21.MMCL\LAB_6\LAB_6\obj\Debug\LAB_6.csproj.CoreCompileInputs.cache
+D:\HK4\Lập trình mạng căn bản - NT106.L21.MMCL\LAB_6\LAB_6\obj\Debug\LAB_6.exe
+D:\HK4\Lập trình mạng căn bản - NT106.L21.MMCL\LAB_6\LAB_6\obj\Debug\LAB_6.pdb
